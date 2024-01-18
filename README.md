@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SmallPan.
 - 👀 I’m interested in CFD.
-- 🌱 I’m currently learning multiphase flow and high-order fluid simulation.
+- 🌱 I’m currently into multiphase flow and high-order fluid simulation.
 - 📫 How to reach me: 437848337@qq.com
 
 <!---
