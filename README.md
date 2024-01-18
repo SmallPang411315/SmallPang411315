@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gong M. J. from Harbin Engineering University.
+- 👋 Hi, I’m SmallPan.
 - 👀 I’m interested in CFD.
 - 🌱 I’m currently learning multiphase flow and high-order fluid simulation.
-- 📫 How to reach me: gongminjiang@hrbeu.edu.cn
+- 📫 How to reach me: 437848337@qq.com
 
 <!---
 SmallPang411315/SmallPang411315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
